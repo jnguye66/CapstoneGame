@@ -1,0 +1,1 @@
+image_angle = instance_nearest(x,y,oEnemyParent);
